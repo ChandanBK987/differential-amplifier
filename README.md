@@ -2,13 +2,13 @@
 
 Course: IC Design Lab (EC705), MTech (Research) — VLSI Design, National Institute of Technology Karnataka (NITK), Surathkal. Joint work with Vishwas A Shanbhag, under Dr. Rekha S. Designed and simulated in **Cadence Virtuoso** using the **GPDK 180 nm** CMOS process design kit.
 
-> Note: the report cover page is titled "Assignment 2: Differential Amplifiers"; the source file in this folder is named `Assignment 3 up.pdf`. This README describes the content of that file as submitted.
+> Note: the report cover page is titled "Assignment 2: Differential Amplifiers"; the source file in this folder is named `Differential_Amplifier.pdf`. This README describes the content of that file as submitted.
 
 ## Contents
 
 | File | Description |
 |---|---|
-| `Assignment 3 up.pdf` | Full lab report: objective, design parameters, specification table, hand-calculated transistor sizing for a current-mirror-loaded differential amplifier (5T OTA), the Cadence schematic, DC operating-point dumps, and AC/transient simulation results (gain, gain-bandwidth, slew rate, power dissipation) at both ICMR corners. |
+| `Differential_Amplifier.pdf` | Full lab report: objective, design parameters, specification table, hand-calculated transistor sizing for a current-mirror-loaded differential amplifier (5T OTA), the Cadence schematic, DC operating-point dumps, and AC/transient simulation results (gain, gain-bandwidth, slew rate, power dissipation) at both ICMR corners. |
 
 ## Objective
 
